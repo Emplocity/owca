@@ -14,8 +14,8 @@ The OWCA dataset was created to provide a high-quality Polish-translated version
 
 The OWCA dataset was created by translating the original instructions for fine-tuning the Alpaca model into Polish. The original cleaned instructions were made by cleaning the original Stanford instructions and can be found [here](https://github.com/gururise/AlpacaDataCleaned). The translation was done algorithmically generated from various sources. It is ongoing proofreading is taking place by a team of experienced translators and NLP experts to ensure the accuracy and quality of the dataset.
 
-#TODO proofread
-
+#DONE proofread
+#TODO add more instructions
 ## Contents of the Dataset
 
 The dataset is provided in a text format and can be easily integrated into NLP projects that require fine-tuning of the Alpaca model for Polish language tasks. 
